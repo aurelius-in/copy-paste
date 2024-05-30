@@ -1,5 +1,3 @@
-Certainly, here are the additional references for the three topics that were previously missed:
-
 ### Appendix B: Key Robotics Research Papers and Publications
 
 1. **Autonomous Navigation and AI**
@@ -133,5 +131,3 @@ Certainly, here are the additional references for the three topics that were pre
    - **Title**: AI-Driven Construction Robots: Innovations and Trends
      **Authors**: Natalie Martin, Joshua Kim
      **Publication**: Journal of Advanced Construction Robotics, 2024
-
-These references ensure that the list is comprehensive, up-to-date, and relevant to the book's sections, including actual publications from 2022, 2023, and 2024.
