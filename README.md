@@ -4,7 +4,7 @@ Sure, here are the enlarged versions of the templates, designed to fill more of 
 
 #### AI Readiness Assessment Template
 
-```markdown
+
 # AI Readiness Assessment Template
 
 **Organization Name:**  
