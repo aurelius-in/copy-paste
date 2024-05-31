@@ -50,7 +50,7 @@ Sure, here are the enlarged versions of the templates, designed to fill more of 
 **Readiness Score (1-5):**  
 **Key Findings:**  
 **Recommendations:**  
-```
+
 
 #### AI Vision and Roadmap Template
 
@@ -82,7 +82,7 @@ Sure, here are the enlarged versions of the templates, designed to fill more of 
 | Phase 3: Implementation          | - Activity 1<br>- Activity 2<br>- Activity 3                                               | Milestone 1<br>Milestone 2      | Start Date - End Date |
 | Phase 4: Evaluation and Scaling  | - Activity 1<br>- Activity 2<br>- Activity 3                                               | Milestone 1<br>Milestone 2      | Start Date - End Date |
 
-```
+
 
 #### Cost-Benefit Analysis Tool
 
@@ -122,7 +122,6 @@ Sure, here are the enlarged versions of the templates, designed to fill more of 
 
 #### Data Quality Checklist
 
-```markdown
 # Data Quality Checklist
 
 **Project Name:**  
