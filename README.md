@@ -54,7 +54,7 @@ Sure, here are the enlarged versions of the templates, designed to fill more of 
 
 #### AI Vision and Roadmap Template
 
-```markdown
+
 # AI Vision and Roadmap Template
 
 **Organization Name:**  
@@ -118,7 +118,7 @@ Sure, here are the enlarged versions of the templates, designed to fill more of 
 |--------------------------|---------------------------------------------------------------------------------------------------|
 | List of key assumptions  | List of potential risks                                                                           |
 
-```
+
 
 #### Data Quality Checklist
 
@@ -140,11 +140,11 @@ Sure, here are the enlarged versions of the templates, designed to fill more of 
 | Validity                 | - Does the data meet the defined criteria?<br>- Are there any invalid data entries?               |               |
 
 **Comments and Observations:**  
-```
+
 
 #### Risk Management Framework
 
-```markdown
+
 # Risk Management Framework
 
 **Project Name:**  
@@ -169,11 +169,11 @@ Sure, here are the enlarged versions of the templates, designed to fill more of 
 | Ethical Violation        | Steps to address an ethical violation                                                             | Team/Individual responsible for ethical compliance                             |
 
 **Comments and Observations:**  
-```
+
 
 #### AI Ethics Guidelines Template
 
-```markdown
+
 # AI Ethics Guidelines Template
 
 **Organization Name:**  
@@ -207,9 +207,7 @@ Sure, here are the enlarged versions of the templates, designed to fill more of 
 | - Implement data anonymization and security measures.                                     |
 
 **Comments and Observations:**  
-```
 
-These enlarged templates should provide more space and structure, making them easier to use and more comprehensive for detailed documentation.
 
 ---
 
