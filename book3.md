@@ -1,5 +1,4 @@
-# "The AI-Driven Organization: 
-## Strategies for Success"
+# The AI-Driven Organization: Strategies for Success"
 
 #### Table of Contents 
 ### Part I: Understanding the AI Landscape
