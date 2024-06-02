@@ -5634,7 +5634,6 @@ To establish ethical guidelines for the development and deployment of AI systems
 
 
 
-
 # Ethical AI Guidelines
 
 ## Objective
@@ -5658,7 +5657,7 @@ To establish comprehensive ethical guidelines for the development, deployment, a
 
 ### Appendix H: Annotated Bibliography on AI Research (2023-2024)
 
-This appendix provides a curated selection of influential AI research papers from 2023 and 2024, offering in-depth summaries that highlight significant advancements across various AI domains.
+The influential AI research papers below offer in-depth summaries to highlight significant advancements across various AI domains.
 
 #### 1. **"Segment Anything" by Meta AI (2023)**
 
