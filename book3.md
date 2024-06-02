@@ -5755,7 +5755,7 @@ This research delves into the integration of AI in collaborative robotics, focus
 This empirical study investigates the use of large language models (LLMs) in conversational recommendation systems. The research highlights three main contributions: the creation of the largest public real-world conversational recommendation dataset, an evaluation showing that LLMs outperform existing fine-tuned models in a zero-shot setting, and an analysis of the models’ performance through probing tasks. The study demonstrates the effectiveness and limitations of LLMs in providing personalized recommendations without the need for extensive fine-tuning, offering insights into future directions for conversational AI design.
 
 ###### **Source:** Conversational Recommenders on arXiv 
-###### **Site:** https://arxiv.org/abs/2303.10566)
+###### **Site:** https://arxiv.org/abs/2303.10566
 
 ##### **Implementation:** GitHub Repository 
 ##### **Site:** https://github.com/zhankui/he/conversational-recommenders
