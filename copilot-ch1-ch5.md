@@ -157,7 +157,8 @@ Once set up, GitHub Copilot integrates seamlessly into your coding environment. 
 3. **Continuous Learning:**
    - Treat Copilot as an assistant, not a replacement. Use it to enhance your learning and productivity, but ensure you understand the code being generated.
 
-### Understanding Copilot's Interface and Features
+## Chapter 2: 
+## Understanding Copilot's Interface and Features
 
 #### Introduction to the Interface
 
